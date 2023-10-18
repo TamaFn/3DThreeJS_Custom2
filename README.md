@@ -1,2 +1,2 @@
-# 3DThreeJS_Custom2
-Make a custom 3d object with ThreeJS and make it interactive
+# 3DThreeJS-Custom
+Make a 3D Object using Three JS to complete Graphic Computer Task
